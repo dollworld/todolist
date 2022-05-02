@@ -4,7 +4,7 @@
  
 <pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" >   
 
-Login app built with React, React-Dom, Email-Validator and Formik.
+ToDolist app is built with React.
 
 <p>
 Formik is a small library that can help you with the three most annoying aspects of creating forms in React:
@@ -79,7 +79,7 @@ Future Improvements to add in the Login App
     <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" />
     <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" />
     <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" />
-   
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
  <p float="left">
