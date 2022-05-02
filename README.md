@@ -7,14 +7,11 @@
 ToDolist app is built with React.
 
 <p>
-Formik is a small library that can help you with the three most annoying aspects of creating forms in React:
+Mainly used two basic Hooks APIs of React, to develop ToDoList page
+* useState
+* useEffect
 
-Getting values in and out of the form state
-Validation and error messages
-Handling form submission
-By collecting all of the above in one place, Formik can keep things organized, making testing, refactoring, and reasoning your forms much easier.
-
-Stack Used to build this app: CSS, HTML, JavaScripts, React
+Other Stack features Used to build this app: CSS, HTML, JavaScripts, React
 </p>
 
 </em></p> </pre> 
@@ -34,13 +31,13 @@ Stack Used to build this app: CSS, HTML, JavaScripts, React
 >This application is compatible with the most commonly used web browsers.
 >
 >Quick Start:
-> * git clone https://github.com/login
-> * cd login    
+> * git clone https://github.com/ToDolist
+> * cd ToDoList    
 > * npm install
 > * npm start
 >
 >Script Description:
-> * cd command use to change the path to the login files folder
+> * cd command use to change the path to the ToDoList files folder
 > * npm start command starts webpack development server @ localhost:3000
 >
 > *Fork a repo:
@@ -51,9 +48,9 @@ Stack Used to build this app: CSS, HTML, JavaScripts, React
 
 
 ## Prerequisites:
-* install formik
-* install Email-Validator
 * install React
+* install npm
+ 
  
 ## Contact:  
  
@@ -66,10 +63,10 @@ Stack Used to build this app: CSS, HTML, JavaScripts, React
 
 ## Improvements:
 
-Future Improvements to add in the Login App
-* Add link to Password forgot and Create new account
-* Allow to login with google account
-* Try Firebase free app
+Future Improvements to add in the ToDoList App
+* fix Scrollbar
+* Display Alert in pop
+* Add color choices for the list items
 
 
 ## Technologies:
