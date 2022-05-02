@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&height=150&section=header&text=Hello%20World!&fontSize=30&desc=Welcome%20To%20My%20Future%0ABouce&animation=scaleIn&fontAlign=20&rotate=-30)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ## ToDoList App
+ 
+<pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" >   
 
-## Available Scripts
+Login app built with React, React-Dom, Email-Validator and Formik.
 
-In the project directory, you can run:
+<p>
+Formik is a small library that can help you with the three most annoying aspects of creating forms in React:
 
-### `npm start`
+Getting values in and out of the form state
+Validation and error messages
+Handling form submission
+By collecting all of the above in one place, Formik can keep things organized, making testing, refactoring, and reasoning your forms much easier.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Stack Used to build this app: CSS, HTML, JavaScripts, React
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+</em></p> </pre> 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Table of Contents 
 
-### `npm run build`
+* [Installation](#installation)
+* [Prerequisites](#prerequisites)
+* [Improvements](#improvements)
+* [Technologies](#technologies)
+* [Github Stats and License](#stats) 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation:
+>
+>This application is compatible with the most commonly used web browsers.
+>
+>Quick Start:
+> * git clone https://github.com/login
+> * cd login    
+> * npm install
+> * npm start
+>
+>Script Description:
+> * cd command use to change the path to the login files folder
+> * npm start command starts webpack development server @ localhost:3000
+>
+> *Fork a repo:
+>A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+> [How to Fork? Click here for the Instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+>
+>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Prerequisites:
+* install formik
+* install Email-Validator
+* install React
+ 
+## Contact:  
+ 
+- <a href="mailto:nileemashah@yahoo.com"><img src = "https://user-images.githubusercontent.com/96500743/159628684-930b27c8-946a-4107-aebe-5f7046b9f6c5.png" alt="Email" />Email Me </a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- <a href="https://github.com/NileemaS/NileemaS.github.io/blob/main/README.md"><img src = "./githubicon.png" alt="github icon img" />README for Bio </a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Improvements:
 
-## Learn More
+Future Improvements to add in the Login App
+* Add link to Password forgot and Create new account
+* Allow to login with google account
+* Try Firebase free app
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Technologies:
 
-### Code Splitting
+<p>
+    <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" />
+    <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" />
+    <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" />
+    <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" />
+   
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ <p float="left">
+  <img src="https://user-images.githubusercontent.com/96500743/156902929-21b303ee-e8ce-4f7e-97ea-9c722890ecbe.png" width="500" /></p>
+    
+  
+## Stats:
 
-### Analyzing the Bundle Size
+![Nileema's GitHub stats](https://github-readme-stats.vercel.app/api?username=NileemaS&show_icons=true&hide=contribs&theme=gruvbox_light)
+[![Langs Used for Dev](https://github-readme-stats.vercel.app/api/top-langs/?username=NileemaS&custom_title=Languages%20Used&theme=gruvbox_light&hide=Dockerfile&layout=compact)](https://github.com/NileemaS/github-readme-stats)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### License ([^note]) 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[^note]:
+    Copyrights @2022, All rights are reserved  <img align="center" src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license" />  
