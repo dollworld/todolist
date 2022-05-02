@@ -2,7 +2,7 @@
 
  ## ToDoList App
  
-<pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" >   
+<pre><img align="center" src="../img/bb.gif.gif" alt="Bouncing Balls GIF" >   
 
 ToDolist app is built with React.
 
@@ -58,7 +58,7 @@ Other Stack features Used to build this app: CSS, HTML, JavaScripts, React
 
 - <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
 
-- <a href="https://github.com/NileemaS/NileemaS.github.io/blob/main/README.md"><img src = "./githubicon.png" alt="github icon img" />README for Bio </a>
+- <a href="https://github.com/NileemaS/NileemaS.github.io/blob/main/README.md"><img src = "../img/githubicon.png" alt="github icon img" />README for Bio </a>
 
 
 ## Improvements:
